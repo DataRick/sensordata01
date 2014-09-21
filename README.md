@@ -1,4 +1,6 @@
-sensordata01
-============
+How to run this script
+-----------------------
 
-Course project code for "Getting and Cleaning Data" Coursera course.
+-place "run_analysis.R" in your working directory.
+-put "UCI HAR Dataset" folder in your working directory
+-source "run_analysis.R"
